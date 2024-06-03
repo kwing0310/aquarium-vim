@@ -21,6 +21,7 @@ function aquarium#colors#definitions()
           \ 'gui0D': "#CDDBF9",
           \ 'gui0E': "#F6BBE7",
           \ 'gui0F': "#EAC1C1",
+          \ 'gui10': "#CCCBD9",
           \}
     let l:result.linenr_bg = result.gui07
     let l:result.linenr_fg = result.gui02
@@ -44,6 +45,7 @@ function aquarium#colors#definitions()
           \ 'gui0D': "#6A8CBC",
           \ 'gui0E': "#8787BF",
           \ 'gui0F': "#E06B6B",
+          \ 'gui10': "#708190",
           \}
     let l:result.linenr_bg = result.gui01
     let l:result.linenr_fg = "#414560"
@@ -67,6 +69,7 @@ function aquarium#colors#definitions()
           \ 'gui0D': "#B9CAEB",
           \ 'gui0E': "#D9B9EB",
           \ 'gui0F': "#EBB9D9",
+          \ 'gui10': "#DCE4EE",
           \}
     let l:result.linenr_bg = result.gui07
     let l:result.linenr_fg = result.gui02

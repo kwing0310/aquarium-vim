@@ -773,7 +773,7 @@ if has('nvim')
 
     " NvimTree
     " >  kyazdani42/nvim-tree.lua
-    call s:hi("NvimTreeNormal", s:colors.gui03, "", "", "", "", "")
+    call s:hi("NvimTreeNormal", s:colors.gui10, "", "", "", "", "")
     call s:hi("NvimTreeExecFile", s:colors.gui0B, "", "", "", "", "")
     call s:hi("NvimTreeOpenedFile", s:colors.gui0A, "", "", "", s:colors.bold, "")
     call s:hi("NvimTreeSpecialFile", s:colors.gui09, "", "", "", "italic", "")
